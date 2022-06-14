@@ -25,11 +25,10 @@
 ---
 
 ### Languages :
-
-[![website](./img/php.png)]&nbsp;&nbsp;
-[![website](./img/html.png)]&nbsp;&nbsp;
-[![website](./img/css.png)]&nbsp;&nbsp;
-[![website](./img/mysql.png)]&nbsp;&nbsp;
+(./img/php.png)&nbsp;&nbsp;
+(./img/html.png)&nbsp;&nbsp;
+(./img/css.png)&nbsp;&nbsp;
+(./img/mysql.png)&nbsp;&nbsp;
 
 
 <br />
