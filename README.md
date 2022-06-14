@@ -26,11 +26,11 @@
 
 ### Languages :
 
-[<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" />] 
-[<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" />]
-[<img align="left" alt="Excel" width="30px" style="padding-right:10px;" />]
-[<img align="left" alt="Power BI" width="30px" style="padding-right:0px;" />]
-[<img align="left" alt="Tableau" width="50px" style="padding-right:10px;" />]
+[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)<br>
+[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
+[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
+[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
+[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
 
 <br />
 <br />
