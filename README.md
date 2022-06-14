@@ -27,7 +27,7 @@
 ### Languages :
 [<img align="left" alt="MySQL" width="60px" src="./img/mysql.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Php" width="60px" src="./img/php.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Html" width="40px" src="./img/html.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Html" width="40px" height="20px"src="./img/html.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Css" width="30px" src="./img/css.png" style="padding-right:10px;" />][webdev]
 
 <br />
