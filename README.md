@@ -11,8 +11,6 @@
 
 #### 1. [STMIK ADHIGUNA](https://www.stmikadhiguna.ac.id)Informatic Engineering`2020`
    - Division head of learning PENA (Programing Engineering And Networking Adhi Guna)
-   - Asistant Laboratorium of Installation
-   - 
  #### 2. [SMKN 1 SARJO](www.smkn1sarjo.sch.id)Computer And Network Engineering `2020`
    - Head of Computer Laboratory
 
