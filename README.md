@@ -26,11 +26,11 @@
 
 ### Languages :
 
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)<br>
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
+[![website](./img/php.png)]&nbsp;&nbsp;
+[![website](./img/html.png)]&nbsp;&nbsp;
+[![website](./img/css.png)]&nbsp;&nbsp;
+[![website](./img/mysql.png)]&nbsp;&nbsp;
+
 
 <br />
 <br />
