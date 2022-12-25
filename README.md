@@ -29,9 +29,6 @@
 ### Connect with me:
 
 
-[![website](./img/instagram-light.svg)](https://instagram.com/m_rizkii28)
-
-
-
+[![website](./img/whatsapp.svg)](https://instagram.com/m_rizkii28)
 
 [webdev]: https://github.com/MRizki28/MRizki28
