@@ -7,9 +7,9 @@
 
 ## Education:
 
-#### 1. [STMIK ADHIGUNA](https://www.stmikadhiguna.ac.id)Informatic Engineering`2020`
+#### 1. [STMIK ADHIGUNA](https://www.stmikadhiguna.ac.id) Informatic Engineering`2020`
    - Division head of learning PENA (Programing Engineering And Networking Adhi Guna)
- #### 2. [SMKN 1 SARJO](www.smkn1sarjo.sch.id)Computer And Network Engineering `2020`
+ #### 2. [SMKN 1 SARJO](www.smkn1sarjo.sch.id) Computer And Network Engineering `2020`
    - Head of Computer Laboratory
 
 ## Work Experience:
@@ -29,6 +29,6 @@
 ### Connect with me:
 
 
-[![website](./img/whatsapp.svg)](https://instagram.com/m_rizkii28)
+[![website](./img/whatsapp.png)](https://wa.me/082290333669?text=Hello%20Rizki)
 
 [webdev]: https://github.com/MRizki28/MRizki28
