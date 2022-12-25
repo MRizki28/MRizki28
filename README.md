@@ -29,6 +29,6 @@
 ### Connect with me:
 
 
-[![website](./img/whatsapp.png)](https://wa.me/082290333669?text=Hello%20Rizki)
+[![website](./img/whatsapp.png)](https://wa.me/+6282290333669?text=Hello%20Rizki)
 
 [webdev]: https://github.com/MRizki28/MRizki28
