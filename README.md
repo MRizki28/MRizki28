@@ -25,19 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRizki28&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### Languages :
-
-
-[<img align="left" alt="Html" width="70px" src="./img/html2.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Css" width="30px" src="./img/css.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Mysql" width="60px" src="./img/mysql.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Php" width="60px" src="./img/php.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Laravel" width="60px" src="./img/laravel.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
-
 ---
 ### Connect with me:
 
