@@ -16,7 +16,7 @@
 
 
 [![website](./img/whatsapp.)](https://wa.me/+6282290333669?text=Hello%20Rizki)
-[![](https://visitcount.itsvg.in/api?id=MRizki28&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 [webdev]: https://github.com/MRizki28/MRizki28
 
