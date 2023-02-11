@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://github.com/MRizki28">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MRizki28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRizki28&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRizki28&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
