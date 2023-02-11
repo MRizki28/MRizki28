@@ -3,7 +3,9 @@
   Lisen https://github.com/insolitum/insolitum.git
   </p>
 
+<p align="center">
 <a href=#><img src="contributions.svg"></a>
+  </p>
 
 <p align="center"> 
   Visitor count<br>
