@@ -1,9 +1,12 @@
 # Hi there, I'm Muhammad Rizki 👋
-## About me:
-- 🔭 I’m currently working at Freelance
-- 🌱 I’m currently learning Php and Javascript
-- 👯 I’m looking to collaborate as Frond End
-- 💬 Ask me about anything
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 # 📊 GitHub Stats:
 <p align="left">
