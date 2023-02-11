@@ -1,6 +1,9 @@
 # Hi there, I'm Muhammad Rizki 👋
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<p align="center">
+  Licen https://github.com/insolitum/insolitum.git
+  </p>
 
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
