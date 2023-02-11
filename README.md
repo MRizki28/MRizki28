@@ -10,6 +10,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MRizki28&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRizki28&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left">
+<a href="https://github.com/MRizki28">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rioshollu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rioshollu&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 ---
 ### Connect with me:
