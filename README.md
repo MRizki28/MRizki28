@@ -1,11 +1,10 @@
 # Hi there, I'm Muhammad Rizki 👋
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/MRizki28/count.svg" />
 </p>
 
 # 📊 GitHub Stats:
