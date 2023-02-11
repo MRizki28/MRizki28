@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Rizki 👋
 <p align="center">
-  Licen https://github.com/insolitum/insolitum.git
+  Lisen https://github.com/insolitum/insolitum.git
   </p>
 
 <a href=#><img src="contributions.svg"></a>
