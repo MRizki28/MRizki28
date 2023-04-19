@@ -1,9 +1,5 @@
 # Hi there, I'm Muhammad Rizki 👋
 <p align="center">
-  Lisen https://github.com/insolitum/insolitum.git
-  </p>
-
-<p align="center">
 <a href=#><img src="contributions.svg"></a>
   </p>
 
