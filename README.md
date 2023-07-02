@@ -1,5 +1,4 @@
-# Hi there, I'm Muhammad Rizki 👋
-
+# Hi there, I'm Muhammad Rizki 
 <p align="center">
 <a href=#><img src="contributions.svg"></a>
   </p>
