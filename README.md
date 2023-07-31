@@ -7,8 +7,6 @@
   <img src="https://profile-counter.glitch.me/MRizki28/count.svg" />
 </p>
 
-
-
 # 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/MRizki28">
