@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRizki28" alt="Muhammad Rizki" /></a> </p>
+<p align="left"> <a href="https://github.com/MRizki28"><img src="https://github-profile-trophy.vercel.app/?username=MRizki28" alt="Muhammad Rizki" /></a> </p>
 
 <p align="left">
 <a href="https://github.com/MRizki28">
