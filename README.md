@@ -7,7 +7,6 @@
   <img src="https://profile-counter.glitch.me/MRizki28/count.svg" />
 </p>
 
-
 # 📊 GitHub Stats:
 
 <p align="left"> <a href="https://github.com/MRizki28"><img src="https://github-profile-trophy.vercel.app/?username=MRizki28" alt="Muhammad Rizki" /></a> </p>
